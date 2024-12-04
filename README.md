@@ -1,4 +1,4 @@
-#VISHAL KUMAR (23293916105) (CSE-B)
+VISHAL KUMAR (23293916105) (CSE-B)
 # Inventory-Management-System---Flask
 An Inventory Management System developed using Flask
 
