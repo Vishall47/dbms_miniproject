@@ -31,7 +31,7 @@ Linux & Others:$ export FLASK_APP=home.py
 $ flask run  
 Windows: set FLASK_ENV=development  
 set FLASK_APP=home.py  
-flask run  
+flask run  | python home.py
 
 6. Open http://127.0.0.1:5000/ in your browser (default link unless you change something in flask)
      
